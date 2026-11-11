@@ -1,7 +1,8 @@
 # Arpit Maheshwari
 
-**Staff / Principal Product Designer — AI & LLM products.** I design the surface where a
-person decides whether to act on a model's output, and I ship the front-end of what I design.
+**Product Manager & Designer — AI & Data-Intensive Products.** I write the spec, design the human-in-the-loop, and ship the front-end of what I design. Sixteen years, five industries.
+
+Looking for one seat: Senior or Staff Product Manager or Product Designer on AI products. Full-time, contract or fractional. Remote from Indore, India, with daily overlap with both US coasts.
 
 > Your model is right. Your users still won't bet on it.
 
